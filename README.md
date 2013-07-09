@@ -1,4 +1,4 @@
 Smart Stick
 =================
 
-Fixed position an element with top and bottom limits inside a container.
+Fixed position any element or `div` with top and bottom limits inside a container.
